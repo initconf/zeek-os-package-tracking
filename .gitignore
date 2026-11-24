@@ -2,3 +2,6 @@ traces
 .sw*
 .DS_Ignore
 *.log
+tmp/
+*.tar.gz
+__pycache__/
