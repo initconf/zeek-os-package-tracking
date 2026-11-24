@@ -5,3 +5,4 @@ traces
 tmp/
 *.tar.gz
 __pycache__/
+session
